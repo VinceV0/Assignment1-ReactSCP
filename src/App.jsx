@@ -6,6 +6,7 @@ import Home from './Home';
 export default function App()
 {
   return(
+    // Gemini code for loading inital page for GitHub Pages
     <Router basename="/Assignment1-ReactSCP">
       <Nav />
         <Routes>
