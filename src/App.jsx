@@ -6,7 +6,7 @@ import Home from './Home';
 export default function App()
 {
   return(
-    <Router>
+    <Router basename="/Assignment1-ReactSCP">
       <Nav />
         <Routes>
           <Route path='/' element={<Home />} />
