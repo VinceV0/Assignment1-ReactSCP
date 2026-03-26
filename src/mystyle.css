@@ -48,7 +48,7 @@
 /*This class was used for spacing and aligning*/
 /*My first itteration of making the tabs*/
 .trapezium {
-    width: 15vw; /* Increased slightly to fit the pseudo-element width */
+    width: 16vw; /* Increased slightly to fit the pseudo-element width */
     height: 5vw;
     position: relative;
     display: flex;
@@ -152,7 +152,7 @@ nav {
     white-space: nowrap;
     margin-left: 0;
     margin-top: -0.2vw;
-    width: 15vw;
+    width: 16vw;
 }
 
 .scplabel{
